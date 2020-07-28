@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": true,
+    "timestamp": 1389192595,
+    "next": "1383057371.73016",
+    "records": 100
+  },
+  "data": [
+    {
+      "type": "mcq",
+      "widget_type": "response",
+      "reference": "mcq_1234",
+      "data": {
+        "options": [
+          {
+            "label": "Hello, nice to meet you Natalie.",
+            "value": "0"
+          },
+          {
+            "label": "Yes please, I'd like some water.",
+            "value": "1"
+          },
+          {
+            "label": "Thank you, I will be there on time.",
+            "value": "2"
+          }
+        ],
+        "stimulus": "What is the most appropriate reply?",
+        "type": "mcq",
+        "validation": {
+          "scoring_type": "exactMatch",
+          "valid_response": {
+            "score": 1,
+            "value": ["1"]
+          }
+        },
+        "ui_style": []
+      },
+      "dt_created": "2014-11-27 05:32:15"
+    }
+  ]
+}

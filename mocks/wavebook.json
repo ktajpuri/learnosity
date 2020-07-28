@@ -1,0 +1,28 @@
+{
+  ...,
+  "id": "XXXX",
+  "solutionInfo": {
+    "optionBody": {
+      "uuidImages": [],
+      "originalOptions": [
+        "(a)  OYIWXY",
+        "(b) OYIXYW",
+        "(c) IYXYWO",
+        "(d) YXWYOI"
+      ],
+      "newOptions": ["  OYIWXY", " OYIXYW", " IYXYWO", " YXWYOI"],
+      "optionOrder": ["(a)", "(b)", "(c)", "(d)"]
+    },
+    "solutions": [],
+    "answer": ["4"]
+  },
+  "questionBody": {
+    "uuidImages": [],
+    "newText": " Physics question 4",
+    "videos": []
+  },
+  "type": "MCQ",
+  "questionSetId": "XXX",
+  "marks": { "positive": 4.0, "negative": 1.0 },
+  ...
+}
