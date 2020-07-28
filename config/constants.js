@@ -1,6 +1,6 @@
 const assessment = {
   security: {
-    domain: "hungry-ritchie-09b906.netlify.app",
+    domain: "localhost",
     consumer_key: "yis0TYCu7U9V4o7M",
     timestamp: "20200728-0900",
     user_id: "student_00012",
@@ -21,7 +21,7 @@ const assessment = {
 
 const authoring = {
   security: {
-    domain: "hungry-ritchie-09b906.netlify.app",
+    domain: "localhost",
     consumer_key: "yis0TYCu7U9V4o7M",
     timestamp: "20200728-0937",
     signature:
@@ -36,7 +36,7 @@ const authoring = {
 
 const analytics = {
   security: {
-    domain: "hungry-ritchie-09b906.netlify.app",
+    domain: "localhost",
     consumer_key: "yis0TYCu7U9V4o7M",
     timestamp: "20200728-0939",
     signature:
