@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" type="text/css" href="../css/style.css" />
+  </head>
+  <body>
+    <h1>Student Reporting Example</h1>
+    <a href="analytics.html">Reports</a>
+    <a href="authoring-1.html">Authoring</a>
+    <a href="index.html">Assesment</a>
+    <h2>Quickstart report 1: individual student assessment results</h2>
+    <span class="learnosity-report" id="quickstart-report-1"></span>
+
+    <h2>Quickstart report 2: student performance by subject area</h2>
+    <span class="learnosity-report" id="quickstart-report-2"></span>
+    <script src="/config/constants.js"></script>
+    <script src="https://reports.learnosity.com/"></script>
+    <script>
+      var reportsApp = LearnosityReports.init(analytics);
+    </script>
+  </body>
+</html>
