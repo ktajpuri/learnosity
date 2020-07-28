@@ -4,7 +4,7 @@
 
 pull the repo
 
-Execute below command from root.
+Execute below command from root of the project.
 
 ```bash
 php -S localhost:8000
